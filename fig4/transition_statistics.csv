@@ -1,0 +1,3 @@
+Transition,OR,CI_lower,CI_upper,P_value
+FCST2 -> Uncertain,1.31,0.83,2.06,0.248
+Uncertain -> BCST2,2.45,1.08,5.55,0.032
