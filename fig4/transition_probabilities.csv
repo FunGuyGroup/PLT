@@ -1,0 +1,5 @@
+Transition,Group,Probability
+FCST2 -> Uncertain,Non_infected,0.111
+Uncertain -> BCST2,Non_infected,0.043
+FCST2 -> Uncertain,Infected,0.141
+Uncertain -> BCST2,Infected,0.099
